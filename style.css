@@ -7,7 +7,7 @@
     padding: 24px 0;
 }
 .cabecalho-imagem{
-    width: 20%;
+    width: 25%;
 }
 
 .cabecalho-lista-item{
@@ -18,4 +18,14 @@
 *{
     margin: 0;
     padding: 0;
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(#202739,#8A8E97);
+    color: rgb(255, 255, 255);
+}
+.esocola-conteudo{
+  width: 80%;
 }
