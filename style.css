@@ -23,9 +23,26 @@
     width: 25%;
 }
 .escola{
-    background-image: linear-gradient(#202739,#8A8E97);
-    color: rgb(255, 255, 255);
+    background-image: linear-gradient(#303c64,#6370ac);
+    color: rgb(78, 144, 182);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
+
 .esocola-conteudo{
-  width: 80%;
+  width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+    .rodape{
+     background-color: rgb(106, 125, 139);
+    text-align: center;
+}
+    .rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
 }
